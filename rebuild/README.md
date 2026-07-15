@@ -13,6 +13,7 @@
 | S12 | eRank↑ with load (FIXED T) | ✅ done | `nb2_S12_S13_decay_vs_nodecay.py`, `nb2_S12_S13.png` |
 | S13 | decay suppresses eRank (from-scratch) | ✅ done | 동상 (DeltaNet no-decay ≫ GDN-2 decay) |
 | S14 | 데이터유형별 erank 궤적 (multi-seq band) | ✅ done | `nb2c_S14_trajectories.py`, `nb2c_S14.png` — **밴드 겹침: 유형간 분리 약함(정직)** |
+| S21 | chunk_by_density + 고정 baseline | ✅ done (진행중 결론) | `nb6_S21_chunking.py`, `nb6_S21.png` — **baseline 추가됨; but ρ=−0.38 p=0.097 약함/미결** |
 | S22 | worked_example_boundaries | 🗑️ **삭제 결정** | 아래 참고 |
 
 ## S22 — 본문에서 삭제
