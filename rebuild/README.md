@@ -12,6 +12,7 @@
 | S15 | F6 decay↔erank (자연어, 1.3B, cap 정정) | ✅ done | `nb3_F6F7_decomposition_1p3B.py`, `F6_1p3B.png` |
 | S12 | eRank↑ with load (FIXED T) | ✅ done | `nb2_S12_S13_decay_vs_nodecay.py`, `nb2_S12_S13.png` |
 | S13 | decay suppresses eRank (from-scratch) | ✅ done | 동상 (DeltaNet no-decay ≫ GDN-2 decay) |
+| S14 | 데이터유형별 erank 궤적 (multi-seq band) | ✅ done | `nb2c_S14_trajectories.py`, `nb2c_S14.png` — **밴드 겹침: 유형간 분리 약함(정직)** |
 | S22 | worked_example_boundaries | 🗑️ **삭제 결정** | 아래 참고 |
 
 ## S22 — 본문에서 삭제
