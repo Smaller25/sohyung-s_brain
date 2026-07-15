@@ -10,6 +10,8 @@
 | S18 | erank↔recall sweep (F9 대체) | ✅ done | `nb4_S18_erank_gauge.py`, `S18_erank_vs_recall.png` |
 | S16 | F7 분해 (norm-matched iso-k, 자연어, 1.3B) | ✅ done | `nb3_F6F7_decomposition_1p3B.py`, `F7_1p3B.png` |
 | S15 | F6 decay↔erank (자연어, 1.3B, cap 정정) | ✅ done | `nb3_F6F7_decomposition_1p3B.py`, `F6_1p3B.png` |
+| S12 | eRank↑ with load (FIXED T) | ✅ done | `nb2_S12_S13_decay_vs_nodecay.py`, `nb2_S12_S13.png` |
+| S13 | decay suppresses eRank (from-scratch) | ✅ done | 동상 (DeltaNet no-decay ≫ GDN-2 decay) |
 | S22 | worked_example_boundaries | 🗑️ **삭제 결정** | 아래 참고 |
 
 ## S22 — 본문에서 삭제
